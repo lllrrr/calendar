@@ -18,7 +18,7 @@
 
 > 除了苹果日历，您也可以选择其他支持订阅功能的日历应用，比如 Google 日历、Outlook 等，只需添加相应的日历订阅链接即可。
 
-如果您有兴趣编写自己的日历订阅链接，请参考这篇文章：[日历订阅源指北：创建、发布、使用][2]。这篇文章详细介绍了从创建日历文件到发布订阅链接的全过程。
+如果您有兴趣编写自己的日历订阅，可以参考这篇文章：[日历订阅源指北：创建、发布、使用][2]。这篇文章详细介绍了从创建日历文件到发布订阅链接的全过程。
 
 [1]: https://raw.githubusercontent.com/onnttf/calendar/main/oil_price_adjustment.ics
 [2]: https://github.com/onnttf/blog/blob/main/2024/4/62_D_kwDOLJ1j984AYxXw.md
